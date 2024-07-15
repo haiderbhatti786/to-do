@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../work/practise/test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todo"
+	}
+}
